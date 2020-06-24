@@ -1,7 +1,7 @@
 # Site settings
 title: Reichenberger Hof
 description: Hier Stellen wir das Projekt vor
-cover: assets/images/radhakrishna.jpg
+cover: assets/images/header.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
