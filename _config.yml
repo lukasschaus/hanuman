@@ -4,8 +4,8 @@ description: Hier Stellen wir das Projekt vor
 cover: assets/images/header.png
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://lukasschaus.github.io/hanuman/" # the base hostname & protocol for your site
+baseurl: "/rbhof/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://lukasschaus.github.io/rbhof/" # the base hostname & protocol for your site
 
 pagination:
 
@@ -47,10 +47,10 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
+username: lukasschaus #github username
+repo: rbhof #github repository
 branch: master #branch
-relative_source: ../hanuman/ #source directory
+relative_source: ../rbhof/ #source directory
 destination: ../hanuman-pages/ #destination directory
 production_url:  https://samanyougarg.com/
 source_url:  https://github.com/samanyougarg/hanuman #source repository url
